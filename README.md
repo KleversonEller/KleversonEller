@@ -1,16 +1,58 @@
-### Hi there 👋
+### Ola, Me chamo Kleverson Eller! 😄
+<br>
+<span>Mas a maioria das pessoas me conhecem como Binho.</span><br>
+<span>Desde muito novo tenho tres paixoes, sendo elas:</span><br>
+<span>👨‍🍳 Cozinhar</span><br>
+<span>🚴‍♂️ Ciclismo</span><br>
+<span>👨‍💻 Codar</span><br>
+<span>Atualmento morro em uma cidade no interior de São Paulo, sou noivo de uma japonesa 🥷, e tenho duas gatas, 😾 Frida e 🙀Pampam.</span><br>
+<span>Tenho facilidade com resolução de problemas e sou uma pessoal logica, dessa forma me adptei muito bem na area de tecnologia, essas são algumas skills da minha stack:</span>
+<br>
 
-<!--
-**KleversonEller/KleversonEller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```JavaScript
+const aboutMe = {
+  name: 'Kleverson Eller',
+  age: '27';
+  level: 'Junior',
+  languages: ['HTML', 'CSS', 'JavaScript'],
+  tools: ['Bootstrap', 'Jest', 'React', 'RTL', 'Redux', 'Git', 'React Hooks', 'Node'],
+  softSkills: [
+    'criatividade',
+    'trabalho em equipe',
+    'comunicação',
+    'resiliencia',
+    'gestão de tempo',
+    'organização'
+  ]
+};
+const contatcMe = () => ({
+  Linkedin: 'https://www.linkedin.com/in/kleverson-eller-oliveira',
+  Gmail: 'kleverson.a16@gmail.com',
+});
+```
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</div>
+<br>
+<div>
+  <a href="https://www.linkedin.com/in/kleverson-eller-oliveira/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="mailto:kleverson.a16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Statistics
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=KleversonEller&count_private=true&show_icons=true&theme=material-palenight" />
+</a>
+<br>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleversonEller&layout=compact&theme=material-palenight" />
+</a>
