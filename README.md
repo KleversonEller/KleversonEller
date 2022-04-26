@@ -1,5 +1,5 @@
 ### Olá, Me chamo Kleverson Eller! 😄
-<br>
+<img id="imgEu" align="right" width="200px" src="https://user-images.githubusercontent.com/94177171/165205178-b0eeee48-c89f-477a-bf78-7d7928d5b7e5.png">
 <span>Mas a maioria das pessoas me conhecem como Binho.</span><br>
 <span>Desde muito novo tenho três paixões, sendo elas:</span><br>
 <span>👨‍🍳 Cozinhar</span><br>
@@ -31,7 +31,7 @@ const contatcMe = () => ({
 });
 ```
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -40,7 +40,7 @@ const contatcMe = () => ({
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 <br>
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/kleverson-eller-oliveira/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   <a href="mailto:kleverson.a16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
 </div>
@@ -48,6 +48,7 @@ const contatcMe = () => ({
 
 ## GitHub Statistics
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=KleversonEller&count_private=true&show_icons=true&theme=material-palenight" />
 </a>
@@ -56,3 +57,4 @@ const contatcMe = () => ({
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleversonEller&layout=compact&theme=material-palenight" />
 </a>
+</div>
