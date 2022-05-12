@@ -4,7 +4,7 @@
 <span>Desde muito novo tenho três paixões, sendo elas:</span><br>
 <span>👨‍🍳 Cozinhar</span><br>
 <span>🚴‍♂️ Ciclismo</span><br>
-<span>👨‍💻 Codar</span><br>
+<span>👨‍💻 Algoritmos</span><br>
 <span>Atualmente morro em uma cidade no interior de São Paulo, sou noivo de uma japonesa 🥷, e tenho duas gatas, 😾 Frida e 🙀Pampam.</span><br>
 <span>Tenho facilidade com resolução de problemas e sou uma pessoal lógica, dessa forma me adaptei muito bem na área de tecnologia, essas são algumas skills da minha stack:</span>
 <br>
