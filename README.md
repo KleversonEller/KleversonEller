@@ -17,7 +17,7 @@ const aboutMe = {
   age: '27';
   level: 'Junior',
   languages: ['HTML', 'CSS', 'JavaScript'],
-  tools: ['Bootstrap', 'Jest', 'React', 'RTL', 'Redux', 'Git', 'React Hooks', 'Node'],
+  tools: ['Bootstrap', 'Jest', 'React', 'RTL', 'Redux', 'Git', 'React Hooks', 'SQL', 'Docker'],
   softSkills: [
     'criatividade',
     'trabalho em equipe',
