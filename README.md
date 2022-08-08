@@ -41,10 +41,14 @@ export default class Developer {
   set softSkills(value: string[]) { this._softSkills = value }
 }
 
-const Me = new Developer('Kleverson', 27, {
+const Me = new Developer(
+  'Kleverson', 
+  27,
+  {
   Linkedin: 'https://www.linkedin.com/in/kleverson-eller-oliveira',
   Gmail: 'kleverson.a16@gmail.com',
-})
+  }
+)
 Me.level = 'Junior'
 Me.languages = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'PHP', 'C++','Python']
 Me.tools = [
