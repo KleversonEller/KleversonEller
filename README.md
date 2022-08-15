@@ -54,15 +54,11 @@ Me.level = 'Junior'
 
 Me.languages = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'PHP', 'C++','Python']
 
-Me.tools = [
-  'React', 'Node.js', 'Express', 'Mocha', 'Chai', 'Sinon', 'Jest', 'RTL', 'Redux',
-  'Context', 'Zustand', 'Docker', 'Sequelize', 'Rest/RestFull', 'SOLID', 'POO',
-]
+Me.tools = ['React', 'Node.js', 'Express', 'Mocha', 'Chai', 'Sinon', 'Jest', 'RTL', 'Redux',
+  'Context', 'Zustand', 'Docker', 'Sequelize', 'Rest/RestFull', 'SOLID', 'POO']
 
-Me.softSkills = [
-  'Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resiliência',
-  'Gestão de tempo', 'Organização', 'Resolução de problemas','Auto liderança',
-]
+Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resiliência',
+  'Gestão de tempo', 'Organização', 'Resolução de problemas','Auto liderança']
 ```
 
 <div align="center" style="display: inline_block"><br>
