@@ -12,39 +12,7 @@
 <br>
 
 ```JavaScript
-export default class Developer {
-  private _name: string
-  private _age: number
-  private _level: string = ''
-  private _languages: string[] = []
-  private _tools: string[] = []
-  private _softSkills: string[] = []
-  private _contact: object
-
-  constructor(name: string, age: number, contact: object) {
-    this._name = name
-    this._age = age
-    this._contact = contact
-  }
-
-  get name() { return this._name }
-  get age() { return this._age }
-  get level() { return this._level }
-  get languages() { return this._languages }
-  get tools() { return this._tools }
-  get softSkills() { return this._softSkills }
-  get contactMe() { return this._contact }
-
-  set level(value: string) { this._level = value }
-  set languages(value: string[]) { this._languages = value }
-  set tools(value: string[]) { this._tools = value }
-  set softSkills(value: string[]) { this._softSkills = value }
-}
-
-const Me = new Developer(
-  'Kleverson', 
-  27,
-  {
+const Me = new Developer('Kleverson', '27 yers', {
   Linkedin: 'https://www.linkedin.com/in/kleverson-eller-oliveira',
   Gmail: 'kleverson.a16@gmail.com',
   }
