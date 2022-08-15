@@ -1,12 +1,10 @@
 ### Olá, Me chamo Kleverson Eller! 😄
 <img id="imgEu" align="right" width="200px" src="https://user-images.githubusercontent.com/94177171/165205178-b0eeee48-c89f-477a-bf78-7d7928d5b7e5.png">
-<span>Mas a maioria das pessoas me conhecem como Binho.</span><br>
-<span>Desde muito novo tenho três paixões, sendo elas:</span><br>
-<span>👨‍🍳 Cozinhar</span><br>
-<span>🚴‍♂️ Ciclismo</span><br>
-<span>👨‍💻 Algoritmos</span><br>
-<span>Atualmente morro em uma cidade no interior de São Paulo, sou noivo de uma japonesa 🥷, e tenho duas gatas, 😾 Frida e 🙀Pampam.</span><br>
-<span>Tenho facilidade com resolução de problemas e sou uma pessoal lógica, dessa forma me adaptei muito bem na área de tecnologia, essas são algumas skills da minha stack:</span>
+<p>Mas a maioria das pessoas me conhecem como Binho.
+Desde muito novo tenho três paixões, sendo elas:</p>
+<p>👨‍🍳 Cozinhar   🚴‍♂️ Ciclismo    👨‍💻 Algoritmos</p>
+<p>Atualmente morro em uma cidade no interior de São Paulo, sou noivo de uma japonesa 🥷, e tenho duas gatas, 😾 Frida e 🙀Pampam.
+Tenho facilidade com resolução de problemas e sou uma pessoal lógica, dessa forma me adaptei muito bem na área de tecnologia, essas são algumas skills da minha stack:</p>
 <br>
 <br>
 <br>
