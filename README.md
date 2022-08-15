@@ -56,7 +56,7 @@ Me.languages = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'PHP', 'C++','Python'
 
 Me.tools = [
   'React', 'Node.js', 'Express', 'Mocha', 'Chai', 'Sinon', 'Jest', 'RTL', 'Redux',
-  'Context', 'Zustand', 'Docker', 'Sequelize', Rest/RestFull', 'SOLID', 'POO',
+  'Context', 'Zustand', 'Docker', 'Sequelize', 'Rest/RestFull', 'SOLID', 'POO',
 ]
 
 Me.softSkills = [
