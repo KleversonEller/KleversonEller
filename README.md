@@ -12,11 +12,11 @@
 <br>
 
 ```JavaScript
-const Me = new Developer('Kleverson', '27 yers', {
+const Me = new Developer('Kleverson', '27 yers',
+{
   Linkedin: 'https://www.linkedin.com/in/kleverson-eller-oliveira',
   Gmail: 'kleverson.a16@gmail.com',
-  }
-)
+  })
 
 Me.level = 'Junior'
 
