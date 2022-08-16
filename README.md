@@ -2,7 +2,11 @@
 <img id="imgEu" align="right" width="200px" src="https://user-images.githubusercontent.com/94177171/165205178-b0eeee48-c89f-477a-bf78-7d7928d5b7e5.png">
 <p>Mas a maioria das pessoas me conhecem como Binho.
 Desde muito novo tenho três paixões, sendo elas:</p>
-<p>👨‍🍳 Cozinhar   🚴‍♂️ Ciclismo    👨‍💻 Algoritmos</p>
+<div align="center">
+👨‍🍳 Cozinhar<br>
+🚴‍♂️ Ciclismo<br>
+👨‍💻 Algoritmos<br>
+</div><br>
 <p>Atualmente morro em uma cidade no interior de São Paulo, sou noivo de uma japonesa 🥷, e tenho duas gatas, 😾 Frida e 🙀Pampam.
 Tenho facilidade com resolução de problemas e sou uma pessoal lógica, dessa forma me adaptei muito bem na área de tecnologia, essas são algumas skills da minha stack:</p>
 <br>
