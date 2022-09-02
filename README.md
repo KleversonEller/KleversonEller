@@ -15,7 +15,7 @@ Tenho facilidade com resolução de problemas e sou uma pessoal lógica, dessa f
 const Me = new Developer('Kleverson', '27 yers',
 {
   Linkedin: 'https://www.linkedin.com/in/kleverson-eller-oliveira',
-  Gmail: 'kleverson.a16@gmail.com',
+  E-mail: 'kleverson.a16@gmail.com',
   })
 
 Me.level = 'Junior'
