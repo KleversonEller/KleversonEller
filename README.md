@@ -12,7 +12,7 @@ Tenho facilidade com resolução de problemas e sou uma pessoal lógica, dessa f
 <br>
 
 ```JavaScript
-const Me = new Developer('Kleverson', '27 yers',
+const Me = new Developer('Kleverson', '27 yers-old',
 {
   Linkedin: 'https://www.linkedin.com/in/kleverson-eller-oliveira',
   E-mail: 'kleverson.a16@gmail.com',
