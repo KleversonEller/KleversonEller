@@ -6,7 +6,7 @@ Desde muito novo tenho três paixões, sendo elas:</p>
 🚴‍♂️ Ciclismo<br>
 👨‍💻 Algoritmos<br><br>
 <p>Atualmente morro em uma cidade no interior de São Paulo, sou noivo de uma japonesa 🥷, e tenho duas gatas, 😾 Frida e 🙀Pampam.
-Tenho facilidade com resolução de problemas e sou uma pessoal lógica, dessa forma me adaptei muito bem na área de tecnologia, essas são algumas skills da minha stack:</p>
+Tenho facilidade com resolução de problemas e sou uma pessoa lógica, dessa forma me adaptei muito bem na área de tecnologia, essas são algumas skills da minha stack:</p>
 <br>
 <br>
 <br>
@@ -18,12 +18,13 @@ const Me = new Developer('Kleverson', '27 years-old',
   E-mail: 'kleverson.a16@gmail.com',
   })
 
-Me.level = 'Junior'
+Me.level = 'Junior/Pleno'
 
 Me.languages = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'PHP', 'C++','Python']
 
 Me.tools = ['React', 'Node.js', 'Express', 'Mocha', 'Chai', 'Sinon', 'Jest', 'RTL', 'Redux',
-    'Context', 'Zustand', 'Docker', 'Sequelize', 'Rest/RestFull', 'SOLID', 'POO']
+    'Context', 'Zustand', 'Docker', 'Sequelize', 'Rest/RestFull', 'SOLID',
+    'POO', 'Prisma', 'Joi', 'Vite', 'Vitest', 'Tailwindcss', 'Swagger', ...]
 
 Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resiliência',
     'Gestão de tempo', 'Organização', 'Resolução de problemas','Auto liderança']
