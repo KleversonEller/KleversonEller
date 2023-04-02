@@ -11,7 +11,7 @@ Sou extremamente determinado em tudo que faço, então poderão contar comigo se
 Entre minhas habilidades a que considero mais desenvolvida é minha resolução de problemas (pensamento critico), sou bom em analisar contextos e tomar decisões de forma logica, racional e o mais imparcial possível, acredito que essa habilidade aliada ao meu conhecimento técnico me ajuda a elaborar soluções diferentes que podem acabar sendo uma melhor opção em um contexto.</p>
 <br>
 
-## **+ Sobre Mim**
+## **Mais Sobre Mim**
 
 <br>
 
