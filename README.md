@@ -33,9 +33,9 @@ Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resili�
 <br>
 <br>
 
-<section><h2><strong>Tech Stack</strong></h2>
+## **Tecnologias**
 
-<h3>Languages</h3>
+<h3>Linguagens</h3>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -61,7 +61,7 @@ Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resili�
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
-<h3>Test</h3>
+<h3>Testes</h3>
 
 <img src="https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
 <img src="https://img.shields.io/badge/RTL-C21325?style=for-the-badge&logo=testing-library&logoColor=white">
@@ -70,7 +70,7 @@ Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resili�
 <img src="https://img.shields.io/badge/Sinon-FFEBA3?style=for-the-badge&logo=Sinon&logoColor=white">
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
 
-<h3>Tools & Others</h3>
+<h3>Ferramentas/Outros</h3>
 
 <img src="https://img.shields.io/badge/slack-2FB67C?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -89,18 +89,23 @@ Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resili�
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
 
-</section>
 <br>
 
 ## **Redes Sociais**
 
+<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/kleverson-eller-oliveira/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-  <a href="mailto:kleverson.a16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
+  <a href="mailto:kleverson.a16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://api.whatsapp.com/send?phone=5519999435527" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  
 </div>
 <br>
 
 ## GitHub Statistics
+
+<br>
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
