@@ -110,15 +110,12 @@ Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resili�
 
 ## GitHub Statistics
 
-<br>
-
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=KleversonEller&count_private=true&show_icons=true&theme=material-palenight" />
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=KleversonEller&count_private=true&show_icons=true&theme=material-palenight" />
 </a>
-<br>
-<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleversonEller&layout=compact&theme=material-palenight" />
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleversonEller&layout=compact&theme=material-palenight" />
 </a>
-</div>
+
