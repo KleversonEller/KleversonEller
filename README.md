@@ -34,7 +34,7 @@ Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resili�
 <br>
 
 ## **Tecnologias**
-
+</section>
 <h3>Linguagens</h3>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -88,7 +88,7 @@ Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resili�
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-
+</section>
 <br>
 
 ## **Redes Sociais**
