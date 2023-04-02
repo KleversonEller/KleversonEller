@@ -1,13 +1,18 @@
 ### Olá, Me chamo Kleverson Eller! 😄
 
 <img id="imgEu" align="right" width="200px" src="https://user-images.githubusercontent.com/94177171/165205178-b0eeee48-c89f-477a-bf78-7d7928d5b7e5.png">
-<p>Mas a maioria das pessoas me conhecem como Binho.
-Desde muito novo tenho três paixões:</p>
-👨‍🍳 Cozinhar<br>
-🚴‍♂️ Ciclismo<br>
-👨‍💻 Algoritmos<br><br>
-<p>Atualmente morro em uma cidade no interior de São Paulo, sou noivo de uma japonesa 🥷, e tenho duas gatas, 😾 Frida e 🙀Pampam.
-Tenho facilidade com resolução de problemas e sou uma pessoa lógica, dessa forma me adaptei muito bem na área de tecnologia, essas são algumas skills da minha tech stack:</p>
+
+<p>Desde muito novo eu sempre fui uma pessoa bem logica, meus brinquedos foram em sua grande maioria jogos de lógica, quebra-cabeças e jogos de estratégia, o típico "nerd", o que me fez desenvolver ainda mais minha lógica e levar resolução de problemas como uma diversão.
+
+Assim a área de tecnologia caiu como uma luva pra mim, me formei em Desenvolvimento Web e Tecnologia da informação, procuro uma oportunidade onde possa mostrar meu potencial e que ira contribuir na minha evolução e aquisição de novos conhecimentos, podendo assim trocar experiencias e conhecimentos com a equipe.
+
+Sou extremamente determinado em tudo que faço, então poderão contar comigo sempre para as tarefas "impossíveis" e/ou inovadoras, pois amo aprender coisas novas e quando estou engajado em algo não meço esforços para entregar meu melhor e/ou aprender o máximo possível.
+
+Entre minhas habilidades a que considero mais desenvolvida é minha resolução de problemas (pensamento critico), sou bom em analisar contextos e tomar decisões de forma logica, racional e o mais imparcial possível, acredito que essa habilidade aliada ao meu conhecimento técnico me ajuda a elaborar soluções diferentes que podem acabar sendo uma melhor opção em um contexto.</p>
+<br>
+
+## **+ Sobre Mim**
+
 <br>
 
 ```JavaScript
@@ -32,6 +37,9 @@ Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resili�
 <br>
 
 ## **Tecnologias**
+
+<br>
+
 <section>
 <h3>Linguagens</h3>
 
