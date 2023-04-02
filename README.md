@@ -25,7 +25,7 @@ const Me = new Developer('Kleverson', '27 years-old',
 
 Me.level = 'Junior/Pleno'
 
-Me.languages = ['HTML', 'CSS', 'JavaScript', 'TypeScript', '.NET C#', 'Java', 'Python']
+Me.languages = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Node.Js', '.NET C#', 'Java', 'Python']
 
 Me.tools = ['Zustand', 'Vite', 'Prisma ORM', 'API Rest', 'Sequelize', 'Bootstrap', 'Context API',
     'Nest.js', 'Kafka', 'React.Native', 'MicroService', 'SQL', 'Hooks', 'Mongoose', 'PostegreSQL',
