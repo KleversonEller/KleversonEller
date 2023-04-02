@@ -38,7 +38,6 @@ Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resili�
 
 ## **Tecnologias**
 
-<br>
 
 <section>
 <h3>Linguagens</h3>
