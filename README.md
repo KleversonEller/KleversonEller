@@ -7,8 +7,7 @@ Desde muito novo tenho três paixões:</p>
 🚴‍♂️ Ciclismo<br>
 👨‍💻 Algoritmos<br><br>
 <p>Atualmente morro em uma cidade no interior de São Paulo, sou noivo de uma japonesa 🥷, e tenho duas gatas, 😾 Frida e 🙀Pampam.
-Tenho facilidade com resolução de problemas e sou uma pessoa lógica, dessa forma me adaptei muito bem na área de tecnologia, essas são algumas skills da minha stack:</p>
-<br>
+Tenho facilidade com resolução de problemas e sou uma pessoa lógica, dessa forma me adaptei muito bem na área de tecnologia, essas são algumas skills da minha tech stack:</p>
 <br>
 
 ```JavaScript
@@ -31,10 +30,9 @@ Me.softSkills = ['Criatividade', 'Trabalho em equipe', 'Comunicação', 'Resili�
     'Gestão de tempo', 'Organização', 'Resolução de problemas','Auto liderança']
 ```
 <br>
-<br>
 
 ## **Tecnologias**
-</section>
+<section>
 <h3>Linguagens</h3>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
